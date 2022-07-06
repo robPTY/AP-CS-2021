@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Module 2.02
+PURPOSE OF PROJECT: To show my APCS works
+VERSION or DATE: 09/05/2020
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Roberto Aguero
 USER INSTRUCTIONS:
