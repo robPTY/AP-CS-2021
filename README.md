@@ -8,3 +8,6 @@ The following format for each folder will be:
 | Lessons     |
 | Documents   |
 | Assignments |
+
+
+# License
